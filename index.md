@@ -2,6 +2,13 @@
 
 ---
 
+### Front-End Development
+
+[Petrol Pump Management System](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ### Full-Stack Development 
 
 [Ficting](/pdf/sample_presentation.pdf)
@@ -19,13 +26,6 @@
 ---
 
 [Dhanlaxmi Jewellers](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Front-End Development
-
-[Petrol Pump Management System](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
