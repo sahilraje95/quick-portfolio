@@ -40,10 +40,10 @@ The module's functionalities as follows:
 * Search for generated Item request
 * Generate report for generated Item requests
 
-**Screenshots:**
-
-<img src="../images/item_code_creation/1.png?raw=true"/>
-
 **My contribution to this project includes the above mentioned list of functionalities.**
 
 **Technology profile:** J2EE (JDBC, Servlet, JSP), HTML5, CSS3, Bootstrap 3, JavaScript, jQuery, AJAX and MySQL Database.
+
+**Screenshots:**
+
+<img src="../images/item_code_creation/1.png?raw=true"/>
