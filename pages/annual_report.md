@@ -43,3 +43,7 @@ Primary users of this system are University Development Officer, Faculty Dean, H
 * Create University-level AQAR reports as output.
 
 **Technology profile:** ASP.NET with C#, SAP Crystal Reports, HTML5, CSS3, SQL and MS SQL Database.
+
+**Screenshots:**
+
+<img src="../images/annual_report/1.png?raw=true"/>
