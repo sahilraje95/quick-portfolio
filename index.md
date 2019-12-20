@@ -4,7 +4,7 @@
 
 ### Front-End Development (1 project)
 
-[Petrol Pump Management System](/pages/petrol_pump)
+[Fuel Station Management System](/pages/petrol_pump)
 
 <kbd><img src="images/petrol_pump/1.png?raw=true"/></kbd>
 
