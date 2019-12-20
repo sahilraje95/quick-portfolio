@@ -6,7 +6,7 @@
 
 [Petrol Pump Management System](/pages/petrol_pump)
 
-<img src="images/petrol_pump/1.png?raw=true"/>
+<kbd><img src="images/petrol_pump/1.png?raw=true"/></kbd>
 
 ---
 
@@ -14,17 +14,17 @@
 
 [Ficting](/pages/ficting)
 
-<img src="images/placeholder.png?raw=true"/>
+<kbd><img src="images/placeholder.png?raw=true"/></kbd>
 
 ---
 [Annual Report Management System](/pages/annual_report)
 
-<img src="images/annual_report/1.png?raw=true"/>
+<kbd><img src="images/annual_report/1.png?raw=true"/></kbd>
 
 ---
 
 [Item Code Creation](/pages/item_code_creation)
 
-<img src="images/item_code_creation/1.png?raw=true"/>
+<kbd><img src="images/item_code_creation/1.png?raw=true"/></kbd>
 
 ---
