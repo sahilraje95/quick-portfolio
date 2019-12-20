@@ -14,7 +14,7 @@
 
 [Ficting](/pages/ficting)
 
-<img src="images/ficting/1.png?raw=true"/>
+<img src="images/placeholder.png?raw=true"/>
 
 ---
 [Annual Report Management System](/pages/annual_report)

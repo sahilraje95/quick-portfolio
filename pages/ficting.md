@@ -46,3 +46,7 @@ The primary users of this system are as follows:
 * Receive important notifications and updates.
 
 **Technology profile:** React Native v0.58, npm, CodeIgniter v3.1.10 with RESTful API and MySQL Database.
+
+**Screenshots:**
+
+<img src="../images/ficting/1.png?raw=true"/>
