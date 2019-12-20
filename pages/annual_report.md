@@ -46,4 +46,4 @@ Primary users of this system are University Development Officer, Faculty Dean, H
 
 **Screenshots:**
 
-<img src="../images/annual_report/1.png?raw=true"/>
+<kbrd><img src="../images/annual_report/1.png?raw=true"/></kbrd>
