@@ -46,4 +46,4 @@ The module's functionalities as follows:
 
 **Screenshots:**
 
-<img src="../images/item_code_creation/1.png?raw=true"/>
+<kbd><img src="../images/item_code_creation/1.png?raw=true"/></kbd>
