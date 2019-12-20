@@ -2,30 +2,25 @@
 
 ---
 
-### Front-End Development
+### Front-End Development (1 project)
 
-[Petrol Pump Management System](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Full-Stack Development 
-
-[Ficting](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Annual Report Management System](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Petrol Pump Management System](/pages/petrol_pump)
+<img src="images/petrol_pump/1.png?raw=true"/>
 
 ---
 
-[Item Code Creation](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Full-Stack Development (3 projects)
+
+[Ficting](/pages/ficting)
+<img src="images/ficting/1.png?raw=true"/>
+
+---
+[Annual Report Management System](/pages/annual_report)
+<img src="images/annual_report/1.png?raw=true"/>
 
 ---
 
-[Dhanlaxmi Jewellers](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Item Code Creation](/pages/item_code_creation)
+<img src="images/item_code_creation/1.png?raw=true"/>
 
 ---
