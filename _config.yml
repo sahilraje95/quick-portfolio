@@ -1,10 +1,10 @@
 title: Sahil Raje # your name (or website title) here
 logo: "/images/profile-pic.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Looking for job opportuinities in back-end or full-stack software development
-  <br><br>
-  Software developer, 3 internships (1.1 years) and 4 months of full-time employment, Master of Computer Application
+description:
+  Software developer, 3 internships (1.1 years) and 4 months of full-time employment
   <br><br>       
+  Master of Computer Application
+  <br><br>
   <a href="https://www.linkedin.com/in/sahilraje95/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal  
