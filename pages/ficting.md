@@ -49,4 +49,4 @@ The primary users of this system are as follows:
 
 **Screenshots:**
 
-<img src="../images/ficting/1.png?raw=true"/>
+<kbd><img src="../images/ficting/1.png?raw=true"/></kbd>
