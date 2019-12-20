@@ -18,7 +18,8 @@
 
 **Brief Description about the system:** It consists of 3 dashboards, for different users:
 
-1. Superadmin (For Super user):  * Manage Modules
+1. Superadmin (For Super user):  
+* Manage Modules
 * Manage Roles and permissions
 * Manage Outlets
 * Manage Unit of Measure
