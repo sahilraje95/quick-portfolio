@@ -20,7 +20,7 @@ The users in the approval process are:
 * Approver 1
 * Approver 2
 
-The project uses **UNSPSC (United Nations Standard Products & Services Code)** item codes dataset to generate an item request, which is available on it's official website: <a href="www.unspsc.org">UNSPSC Official Website</a>
+The project uses **UNSPSC (United Nations Standard Products & Services Code)** item codes dataset to generate an item request, which is available on it's official website: <a href="https://www.unspsc.org/">UNSPSC Official Website</a>
 
 A UNSPSC Item Code has a four-level hierarchical structure which is as follows: 
 * Group
