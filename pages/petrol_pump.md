@@ -57,3 +57,7 @@
 **My contribution in this project include building it from scratch, using a UI kit and necessary packages, downloaded from npm repository, and customised as per requirements.**
 
 **Technology profile:** React.js, npm, Bootstrap 4, CSS3, MERN (MongoDB, Express.js, React.js, Node.js).
+
+**Screenshots:**
+
+<kbd><img src="../images/petrol_pump/1.png?raw=true"/></kbd>
