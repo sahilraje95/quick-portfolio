@@ -15,7 +15,7 @@
 
 The application belongs to the category of Entertainment apps.
 
-The project title “Ficting” is a combination of two words: (Fict)ion + Text(ing) = Ficting. For the scope of this application and document, it’s a synonym for a story that is narrated in a conversational style, between two or more characters, which will render like a chat application based text conversation among the characters.<br><br>This form of storytelling is popularly known as Chat Fiction.
+The project title “Ficting” is a combination of two words: (Fict)ion + Text(ing) = Ficting. For the scope of this application and document, it’s a synonym for a story that is narrated in a conversational style, between two or more characters, which will render like a chat application based text conversation among the characters.<br>This form of storytelling is popularly known as Chat Fiction.
 
 The primary users of this system are as follows: 
 * Ficter (author of a Ficting)
