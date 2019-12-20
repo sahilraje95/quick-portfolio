@@ -6,7 +6,7 @@
 
 **Organization & Client:** The Maharaja Sayajirao University of Baroda, Vadodara, Gujarat, India
 
-**Project description:** Gathering insights and generating reports for ARMS (a data & report management portal of the organization) in the format specified by National Assessment and Accreditation Council (NAAC).  AQAR (Annual Quality Assurance Report) is a critical document which depicts overall scenario of the annual tangible institutional growth in the seven criteria identified by NAAC (National Assessment and Accreditation Council). It has to be submitted to NAAC, annually, by all accredited institutions, as per the prescribed format.
+**Project description:** Gathering insights and generating reports for ARMS (a data & report management portal of the organization) in the format specified by National Assessment and Accreditation Council (NAAC).<br>AQAR (Annual Quality Assurance Report) is a critical document which depicts overall scenario of the annual tangible institutional growth in the seven criteria identified by NAAC (National Assessment and Accreditation Council). It has to be submitted to NAAC, annually, by all accredited institutions, as per the prescribed format.
 
 **Brief Description about the system:**
 
