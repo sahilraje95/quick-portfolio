@@ -2,7 +2,7 @@
 
 **Type:** Live Web-based Application. 
 
-**URL:** http://ccc.msubaroda.ac.in/AnnualRep/
+**URL:** <a href="http://ccc.msubaroda.ac.in/AnnualRep/">Annual Report Management System</a> 
 
 **Organization & Client:** The Maharaja Sayajirao University of Baroda, Vadodara, Gujarat, India
 
