@@ -20,7 +20,7 @@ The users in the approval process are:
 * Approver 1
 * Approver 2
 
-The project uses **UNSPSC (United Nations Standard Products & Services Code)** item codes dataset to generate an item request, which is available on it's official website: www.unspsc.org
+The project uses **UNSPSC (United Nations Standard Products & Services Code)** item codes dataset to generate an item request, which is available on it's official website: <a href="www.unspsc.org">UNSPSC Official Website</a>
 
 A UNSPSC Item Code has a four-level hierarchical structure which is as follows: 
 * Group
@@ -39,6 +39,10 @@ The module's functionalities as follows:
 * Create Item request from Item Code
 * Search for generated Item request
 * Generate report for generated Item requests
+
+**Screenshots:**
+
+<img src="../images/item_code_creation/1.png?raw=true"/>
 
 **My contribution to this project includes the above mentioned list of functionalities.**
 
