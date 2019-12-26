@@ -7,7 +7,9 @@
 * Ficting Website: <a href="http://ficting.com">Ficting Official Website</a>
 * Ficting app on Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.ficting.ficting">Ficting on Google Play Store</a>
 
-**Organization & Client:** Ficting Technologies Pvt. Ltd, Kanpur, Uttar Pradesh, India
+**Organization:** All In Motion IT Solutions, Vadodara, Gujarat, India
+
+**Client:** Ficting Technologies Pvt. Ltd, Kanpur, Uttar Pradesh, India
 
 **Project description:** Ficting is an app to Read / Write / Share stories, narrated like a chat application based text conversation among the characters. I worked on its Implementation of Phase 2, i.e. the following functionalities. 
 

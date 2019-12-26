@@ -2,7 +2,7 @@
 
 **Type:** Live Web-based and Mobile Application
 
-**Organization:** iTechnoSol, Vadodara, Gujarat, India
+**Organization:** All In Motion IT Solutions, Vadodara, Gujarat, India
 
 **Client:** Indian Oil
 

@@ -6,7 +6,7 @@
 
 [Fuel Station Management System](/pages/petrol_pump)
 
-<kbd><img src="images/petrol_pump/1.png?raw=true"/></kbd>
+<kbd><img src="images/fuel_station/1.png?raw=true"/></kbd>
 
 ---
 
